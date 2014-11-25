@@ -6,6 +6,7 @@
  */
 public class Earl {
 	public static void main(String[] args) {
+		System.out.println("What to drink");
 		
 	}
 
